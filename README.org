@@ -13,6 +13,7 @@ From REPL
 #+end_src
 
 * Commands
+按下 C-p ，输入命令
 - help [CMD]
 - quit
 - open FILE
