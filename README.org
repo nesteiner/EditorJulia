@@ -1,0 +1,20 @@
+#+title: Editor written in Julia, references Acorn.jl
+
+* 安装
+#+begin_src julia
+  pkg> add https://github.com/nesteiner/EditorJulia.jl.git
+#+end_src
+
+* 用法
+From REPL
+#+begin_src julia
+  julia> using EditorJulia
+  julia> acorn("filename")
+#+end_src
+
+* Commands
+- help [CMD]
+- quit
+- open FILE
+- save [FILE]
+- echo STR

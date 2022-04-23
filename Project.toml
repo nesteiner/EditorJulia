@@ -1,0 +1,8 @@
+name = "EditorJulia"
+uuid = "9d69200b-5498-4a90-b167-a492031eded4"
+authors = ["nesteiner <steiner3044@163.com>"]
+version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
